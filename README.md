@@ -1,0 +1,1 @@
+First assignment related to our background and ambitions to this course.
