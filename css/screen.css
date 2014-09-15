@@ -28,6 +28,7 @@ h1 {
 }
 p {
   color: #303030;
+  text-indent: 1em;
   padding-top: 6px;
   padding-bottom: 18px;
 }
