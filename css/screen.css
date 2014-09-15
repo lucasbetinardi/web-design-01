@@ -14,8 +14,11 @@ html {
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 18px;
   line-height: 24px;
+  margin-left: 18px;
+  margin-right: 18px;
 }
 h1 {
   font-size: 36px;
